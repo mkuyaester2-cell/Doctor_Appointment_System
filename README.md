@@ -2,8 +2,7 @@
 
 DocBook is a modern, user-friendly web application designed to bridge the gap between patients and healthcare professionals. It simplifies the process of finding doctors, viewing their availability, and booking appointments in real-time.
 
-**Live Demo:** [http://169.239.251.102:341/~ester.mkuya/](http://169.239.251.102:341/~ester.mkuya/)
-
+**Live Demo:** [[http://169.239.251.102:341/~ester.mkuya](http://169.239.251.102:341/~ester.mkuya/)
 # Key Features
 
 For Patients
